@@ -7,7 +7,7 @@ githubUsername: 'rezzylrn'
 ---
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="[https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg](https://res-console.cloudinary.com/ud33nlrq/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cHJvZmlsZQ==/template_primary)" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
