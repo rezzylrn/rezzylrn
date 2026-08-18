@@ -2,7 +2,7 @@
 title: Gracious
 date: '2026-08-18'
 spoiler: Backend Developer and i love matcha
-categories: ["Rezz | Portfolio"]
+categories: ["Code"]
 githubUsername: 'rezzylrn'
 ---
 
@@ -13,14 +13,14 @@ githubUsername: 'rezzylrn'
 
 ### Hi there 👋 I am [Rezz](https://me.darksecret.cloud)
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU/">
+  <img align="left" alt="Rezz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://www.instagram.com/USERNAME_IG_KAMU/">
+  <img align="left" alt="Rezz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+<a href="https://www.youtube.com/@USERNAME_YOUTUBE_KAMU">
+  <img align="left" alt="Rezz's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 
 <br />
@@ -29,15 +29,14 @@ githubUsername: 'rezzylrn'
 <div>
  <p>
 I am 16 years old and quite proficient in computer science. I am deeply interested in the world of trading and financial markets. I aspire to become a skilled quantitative analyst and eventually manage my own investment fund. I have a strong interest in algorithmic and systematic trading.
-
+ </p>
+ <p>
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
-
-</h4>
+ </p>
 </div>
-
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rezzylrn.rezzylrn)
