@@ -1,8 +1,8 @@
 ---
-title: Gracious
+title: 'Rezz - Backend Developer & Innovator'
 date: '2026-08-18'
-spoiler: Backend Developer and i love matcha
-categories: ["Code"]
+description: 'Software Developer and Business Owner building out-of-the-box solutions.'
+categories: ["Profile", "Backend", "Development"]
 githubUsername: 'rezzylrn'
 ---
 
