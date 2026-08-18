@@ -13,13 +13,13 @@ githubUsername: 'rezzylrn'
 
 ### Hi there 👋 I am [Rezz](https://me.darksecret.cloud)
 
-<a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU/">
+<a href="https://www.linkedin.com/in/rezairawanalamsyah76/">
   <img align="left" alt="Rezz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/USERNAME_IG_KAMU/">
+<a href="https://www.instagram.com/rezz1945_/">
   <img align="left" alt="Rezz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/@USERNAME_YOUTUBE_KAMU">
+<a href="https://www.youtube.com/@graciouss-910">
   <img align="left" alt="Rezz's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 
